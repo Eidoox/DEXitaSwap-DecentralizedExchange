@@ -1,4 +1,4 @@
-# DEXita Swap
+# DEXitaSwap
 ## [Live Website](https://dexitaswap.vercel.app/)
 ### Please check the demo video, because I showed how to test DEXita and how to earn test coins to try it.
 ### Go ahead with the live website and give it a try. Feedbacks will be appreciated :)
